@@ -21,3 +21,5 @@ python3 main.py
 python3 -m unittest discover -s tests
 ```
 
+Экспериментальная строка для проверки git stash.
+
